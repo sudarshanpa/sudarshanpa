@@ -1,16 +1,34 @@
-## Hi there 👋
 
-<!--
-**sudarshanpa/sudarshanpa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# Hi 👋 I'm Sudarshan Pawar  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 Aspiring **Java Full Stack Developer**  
+📊 Learning **Data Analytics & Power BI**  
+🌱 Frontend: HTML, CSS, JavaScript  
+
+---
+
+## 🧑‍💻 About Me
+- 💼 Interested in Web Development & Data Analysis  
+- 🚀 Goal: Java Full Stack Developer  
+- 🛠️ Tools: Eclipse, VS Code, GitHub, MySQL  
+
+---
+
+## 🛠️ Skills
+- HTML, CSS, JavaScript  
+- Java, JSP, Servlet, JDBC  
+- MySQL  
+- Git & GitHub  
+
+---
+
+## 🔗 Connect with Me
+- 📧 Email: **sudarshanpawar2255@gmail.com**
+- 💼 LinkedIn:  
+  https://www.linkedin.com/in/sudarshan-pawar-1938b4314
+
+---
+
+## 📈 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sudarshanpa&show_icons=true&theme=tokyonight)
