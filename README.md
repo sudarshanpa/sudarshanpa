@@ -2,9 +2,7 @@
 
 # Hi 👋 I'm Sudarshan Pawar  
 
-🎓 Aspiring **Java Full Stack Developer**  
 📊 Learning **Data Analytics & Power BI**  
-🌱 Frontend: HTML, CSS, JavaScript  
 
 ---
 
