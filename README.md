@@ -26,7 +26,5 @@
 - 💼 LinkedIn:  
   https://www.linkedin.com/in/sudarshan-pawar-1938b4314
 
----
 
-## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sudarshanpa&show_icons=true&theme=tokyonight)
+
