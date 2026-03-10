@@ -7,10 +7,8 @@
 ---
 
 ## 🧑‍💻 About Me
-- 💼 Interested in Web Development & Data Analysis  
-- 🚀 Goal: Java Full Stack Developer  
-- 🛠️ Tools: Eclipse, VS Code, GitHub, MySQL  
-
+- 💼  Data Analysis  
+- 
 ---
 
 ## 🛠️ Skills
