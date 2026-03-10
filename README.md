@@ -12,9 +12,11 @@
 ---
 
 ## 🛠️ Skills
-- HTML, CSS, JavaScript  
-- Java, JSP, Servlet, JDBC  
-- MySQL  
+- MySQL
+- Powerbi
+- Excel
+- Python
+- Libraries 
 - Git & GitHub  
 
 ---
