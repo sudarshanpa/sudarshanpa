@@ -8,7 +8,7 @@
 
 ## 🧑‍💻 About Me
 - 💼  Data Analysis  
-- 
+ 
 ---
 
 ## 🛠️ Skills
