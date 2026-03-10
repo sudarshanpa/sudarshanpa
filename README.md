@@ -13,12 +13,12 @@
 ---
 
 🛠️ Skills
-- 🗄️ MySQL  
-- 📊 Power BI  
-- 📑 Excel  
-- 🐍 Python  
-- 📚 Python Libraries (Pandas, NumPy, Matplotlib)  
-- 🔧 Git & GitHub  
+- 🗄️ MySQL .  
+- 📊 Power BI .
+- 📑 Excel . 
+- 🐍 Python .  
+- 📚 Python Libraries (Pandas, NumPy, Matplotlib) . 
+- 🔧 Git & GitHub . 
 
 ---
 
@@ -37,6 +37,6 @@
 
 ---
 
-⭐  Always learning and improving my data analytics skills.
+⭐ Always learning and improving my data analytics skills. ⭐
 
 
