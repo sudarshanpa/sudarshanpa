@@ -7,7 +7,7 @@
 🧑‍💻 About Me
 - 📊 Passionate about **Data Analysis and Data Visualization**
 - 📚 Currently learning :- Data Analytics tools and technologies
-- 🎯 Goal: To become a Professional Data Analyst
+- 🎯 Goal:- To become a Professional Data Analyst
 - 💡 Interested in working with data to find insights and solve problems
 
 ---
