@@ -30,6 +30,12 @@
 
 ---
 
+## 🐍 Contribution Snake
+
+![Snake animation](https://github.com/SudarshanPawar/SudarshanPawar/blob/output/github-contribution-grid-snake.svg)
+
+---
+
 🔗 Connect with Me
 - 📧 Email:- sudarshanpawar2255@gmail.com  
 - 💼 LinkedIn:-  https://www.linkedin.com/in/sudarshan-pawar-1938b4314  
