@@ -5,10 +5,10 @@
 ---
 
 🧑‍💻 About Me
-- 📊 Passionate about **Data Analysis and Data Visualization**
-- 📚 Currently learning :- Data Analytics tools and technologies
-- 🎯 Goal:- To become a Professional Data Analyst
-- 💡 Interested in working with data to find insights and solve problems
+- 📊 Passionate about Data Analysis and Data Visualization .
+- 📚 Currently learning :- Data Analytics Tools and Technologies .
+- 🎯 Goal:- To Become A Professional Data Analyst .
+- 💡 Interested In Working With Data To Find Insights and Solve Problems .
 
 ---
 
@@ -31,9 +31,8 @@
 ---
 
 🔗 Connect with Me
-- 📧 Email: **sudarshanpawar2255@gmail.com**  
-- 💼 LinkedIn:  
-  https://www.linkedin.com/in/sudarshan-pawar-1938b4314  
+- 📧 Email:- sudarshanpawar2255@gmail.com  
+- 💼 LinkedIn:-  https://www.linkedin.com/in/sudarshan-pawar-1938b4314  
 
 ---
 
