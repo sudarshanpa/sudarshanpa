@@ -36,6 +36,6 @@
 
 ---
 
-⭐ Always learning and improving my data analytics skills. ⭐
+⭐ Always learning And Improving My Data Analytics Skills. ⭐
 
 
