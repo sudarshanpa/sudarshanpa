@@ -17,7 +17,7 @@
 - 📊 Power BI .
 - 📑 Excel . 
 - 🐍 Python .  
-- 📚 Python Libraries (Pandas, NumPy, Matplotlib) . 
+- 📚 Python Libraries (Pandas, NumPy, Matplotlib, Seaborn) . 
 - 🔧 Git & GitHub . 
 
 ---
